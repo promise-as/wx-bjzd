@@ -153,7 +153,7 @@ html, body, div, a, p, span, ul, li, input {
 .bj-head .head-bar .bar-r .r-icon {
   width: 0.32rem;
   height: 0.36rem;
-  background: url("../images/icon_1.png") no-repeat;
+  background: url("https://img.thea.cn/public/platform/thea/201909/hbj/wx-bjzd/images/icon_1.png") no-repeat;
   background-size: 100% 100%;
   margin-right: 0.09333rem;
 }
@@ -165,11 +165,11 @@ html, body, div, a, p, span, ul, li, input {
 }
 
 .bj-head .head-yy {
-  height: 1.62667rem;
-  margin-left: 0.26667rem;
-  margin-right: 0.14667rem;
-  background: url("../images/icon_3.png") repeat-x bottom;
+  width: 10rem;
+  padding: 0.42667rem 0.14667rem 0.42667rem 0.26667rem;
+  background: url("https://img.thea.cn/public/platform/thea/201909/hbj/wx-bjzd/images/icon_3.png") repeat-x bottom #ffffff;
   background-size: auto 0.21333rem;
+  z-index: 100;
 }
 
 .bj-head .head-yy .yy-l .l-title {
@@ -247,7 +247,7 @@ html, body, div, a, p, span, ul, li, input {
 
 .bj-kc .kc-cont .cont-item .item-row .row-btn {
   height: 0.46667rem;
-  line-height: 0.46667rem;
+  line-height: 0.45333rem;
   background-color: #ffffff;
   border-radius: 0.08rem;
   border: solid 1px #cf3340;
@@ -264,7 +264,7 @@ html, body, div, a, p, span, ul, li, input {
 .bj-stage .stage-title .title-icon {
   width: 1.21333rem;
   height: 0.38667rem;
-  background: url("../images/icon_4.png") no-repeat;
+  background: url("https://img.thea.cn/public/platform/thea/201909/hbj/wx-bjzd/images/icon_4.png") no-repeat;
   background-size: 100% 100%;
   margin-right: 0.2rem;
 }
@@ -274,7 +274,7 @@ html, body, div, a, p, span, ul, li, input {
       -ms-flex: 1;
           flex: 1;
   height: 0.21333rem;
-  background: url("../images/icon_3.png") repeat-x;
+  background: url("https://img.thea.cn/public/platform/thea/201909/hbj/wx-bjzd/images/icon_3.png") repeat-x;
 }
 
 .bj-stage .stage-item {
@@ -286,7 +286,7 @@ html, body, div, a, p, span, ul, li, input {
 
 .bj-stage .stage-item .item-figure {
   width: 0.93333rem;
-  background: url("../images/icon_5.png") no-repeat top;
+  background: url("https://img.thea.cn/public/platform/thea/201909/hbj/wx-bjzd/images/icon_5.png") no-repeat top;
   background-size: 100% auto;
   font-size: 0.4rem;
   color: #ffffff;
@@ -519,7 +519,7 @@ html, body, div, a, p, span, ul, li, input {
 .bj-st .st-item .item-detail .detail-row .row-icon {
   width: 0.26667rem;
   height: 0.30667rem;
-  background: url("../images/icon_7.png") no-repeat;
+  background: url("https://img.thea.cn/public/platform/thea/201909/hbj/wx-bjzd/images/icon_7.png") no-repeat;
   background-size: 100% 100%;
   margin-right: 0.08rem;
 }
@@ -527,7 +527,7 @@ html, body, div, a, p, span, ul, li, input {
 .bj-st .st-item .item-detail .detail-row .row-icon_2 {
   width: 0.25333rem;
   height: 0.29333rem;
-  background: url("../images/icon_8.png") no-repeat;
+  background: url("https://img.thea.cn/public/platform/thea/201909/hbj/wx-bjzd/images/icon_8.png") no-repeat;
   background-size: 100% 100%;
   margin-right: 0.09333rem;
   margin-left: 0.45333rem;
